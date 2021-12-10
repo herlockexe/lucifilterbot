@@ -1,9 +1,9 @@
 class Script(object):
 
     START_MSG = """<b>✋Merhaba {},
-Ben birçok yeteneğe sahip gelişmiş bir filtre botuyum!
+Ben Gelişmiş Filter Botuyum\n !
 Filtreleme kapasitem için pratik bir sınır yok:)
-görmek icin <i>/help</i> komutlar ve daha fazla ayrıntı için.</b>
+Komutları görmek icin <i>/help</i> komutlar ve daha fazla ayrıntı için.</b>
 """
 
 
@@ -26,12 +26,12 @@ görmek icin <i>/help</i> komutlar ve daha fazla ayrıntı için.</b>
 /status  -  Botunuzun mevcut durumunu gösterir (Yalnızca Yetkilendirme Kullanıcısı)
 /id  - Kimlik bilgilerini gösterir
 <code>/bilgi kullanıcı kimliği</code> - Kullanıcı Bilgilerini gösterir. Ayrıntılar için bazı iletilere yanıt olarak <code>/info</code> kullanın!
-<b>© @LuciFiltzerBot</b>
+<b>© @HerlockFilterBot</b>
 """
 
 
-    ABOUT_MSG = """<b>🤖 BOT 🤖: Luci Filter Bot</b>
-<b⚜️yaratıcı⚜️ :</b> @Lucifermiyiz
+    ABOUT_MSG = """<b>🤖 BOT 🤖: Herlock Filter Bot</b>
+<b⚜️yaratıcı⚜️ :</b> @tht_herlock
 <b>🧷 Dilim :</b> <code>Python3</code>
-<b> 📢Bot Güncellemeleri :</b> <a href='https://t.me/LuciOyunBot_Duyuru'> Luci Oyun Bot Duyuru </a> 
+<b> 📢Bot Güncellemeleri :</b> <a href='https://t.me/HerlockBots'> Herlock Duyuru </a> 
 """
